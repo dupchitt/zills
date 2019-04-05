@@ -29,3 +29,6 @@ Initiating work. Be carefull and keep a safety helmet.
 
 ### IRL skills:
 - improving at musical theory, drum and zils rythms recognition and practice
+
+## Legal
+Code © Cynthia P. 2019.
